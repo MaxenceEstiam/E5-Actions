@@ -1,5 +1,3 @@
-name: comment déclencher un workflow manuellement
-
 on: 
   workflow_dispatch:
     inputs:
